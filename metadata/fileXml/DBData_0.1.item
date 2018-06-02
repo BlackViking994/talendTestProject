@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:XmlFileConnection xmi:id="_UwreMGWPEeicCeX7sbhl4Q" name="DBData" dataPackage="_UwsFQGWPEeicCeX7sbhl4Q" XmlFilePath="/Users/milossundic/Desktop/DBData.xml" Encoding="UTF-8" fileContent="3C3F786D6C2076657273696F6E3D22312E302220656E636F64696E673D225554462D3822203F3E0A0A093C536572766572436F6E66696775726174696F6E3E0A09093C4442486F73743E3132372E302E302E313C2F4442486F73743E0A09093C4442506F72743E383838383C2F4442506F72743E0A09093C4442557365723E726F6F743C2F4442557365723E0A09093C444250617373776F72643E726F6F743C2F444250617373776F72643E0A09093C4442536368656D613E63656E73656F3C2F4442536368656D613E0A20202020202020200A20202020202020203C696E70757446696C65506174683E433A2F746573743C2F696E70757446696C65506174683E0A093C2F536572766572436F6E66696775726174696F6E3E0A09">
+    <schema xmi:id="_UwreMWWPEeicCeX7sbhl4Q" LimitBoucle="50" AbsoluteXPathQuery="/ServerConfiguration">
+      <schemaTargets xmi:id="_UwreMmWPEeicCeX7sbhl4Q" RelativeXPathQuery="DBHost" TagName="DBHost"/>
+      <schemaTargets xmi:id="_UwreM2WPEeicCeX7sbhl4Q" RelativeXPathQuery="DBPort" TagName="DBPort"/>
+      <schemaTargets xmi:id="_UwreNGWPEeicCeX7sbhl4Q" RelativeXPathQuery="DBUser" TagName="DBUser"/>
+      <schemaTargets xmi:id="_UwreNWWPEeicCeX7sbhl4Q" RelativeXPathQuery="DBPassword" TagName="DBPassword"/>
+      <schemaTargets xmi:id="_UwreNmWPEeicCeX7sbhl4Q" RelativeXPathQuery="DBSchema" TagName="DBSchema"/>
+      <schemaTargets xmi:id="_UwreN2WPEeicCeX7sbhl4Q" RelativeXPathQuery="inputFilePath" TagName="inputFilePath"/>
+    </schema>
+  </TalendMetadata:XmlFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_UwsFQGWPEeicCeX7sbhl4Q" name="default" dataManager="_UwreMGWPEeicCeX7sbhl4Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_UwsFQWWPEeicCeX7sbhl4Q" id="_Ph0zsGWPEeicCeX7sbhl4Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UwsFQmWPEeicCeX7sbhl4Q" label="DBHost" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UwsFQ2WPEeicCeX7sbhl4Q" label="DBPort" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UwsFRGWPEeicCeX7sbhl4Q" label="DBUser" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UwsFRWWPEeicCeX7sbhl4Q" label="DBPassword" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UwsFRmWPEeicCeX7sbhl4Q" label="DBSchema" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_UwsFR2WPEeicCeX7sbhl4Q" label="inputFilePath" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

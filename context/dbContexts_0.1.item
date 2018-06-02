@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_McGuQGKBEeia3uHoS72f6Q" confirmationNeeded="false" name="AD">
+    <contextParameter xmi:id="_McGuQWKBEeia3uHoS72f6Q" comment="" name="dbName" prompt="dbName?" promptNeeded="false" type="id_String" value="test"/>
+    <contextParameter xmi:id="_McGuQmKBEeia3uHoS72f6Q" comment="" name="dbUser" prompt="dbUser?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_oga4IGKCEeia3uHoS72f6Q" comment="" name="dbHost" prompt="dbHost?" promptNeeded="false" type="id_String" value="localhost"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_UC7LIGKAEeia3uHoS72f6Q" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_LMWWkGKBEeia3uHoS72f6Q" comment="" name="dbName" prompt="dbName?" promptNeeded="false" type="id_String" value="test"/>
+    <contextParameter xmi:id="_LMWWkWKBEeia3uHoS72f6Q" comment="" name="dbUser" prompt="dbUser?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_oga4IWKCEeia3uHoS72f6Q" comment="" name="dbHost" prompt="dbHost?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_McGuQ2KBEeia3uHoS72f6Q" confirmationNeeded="false" name="PR">
+    <contextParameter xmi:id="_McGuRGKBEeia3uHoS72f6Q" comment="" name="dbName" prompt="dbName?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_McGuRWKBEeia3uHoS72f6Q" comment="" name="dbUser" prompt="dbUser?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oga4ImKCEeia3uHoS72f6Q" comment="" name="dbHost" prompt="dbHost?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_McGuRmKBEeia3uHoS72f6Q" confirmationNeeded="false" name="QA">
+    <contextParameter xmi:id="_McGuR2KBEeia3uHoS72f6Q" comment="" name="dbName" prompt="dbName?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_McGuSGKBEeia3uHoS72f6Q" comment="" name="dbUser" prompt="dbUser?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_oga4I2KCEeia3uHoS72f6Q" comment="" name="dbHost" prompt="dbHost?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

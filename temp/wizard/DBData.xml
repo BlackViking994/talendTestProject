@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+	<ServerConfiguration>
+		<DBHost>127.0.0.1</DBHost>
+		<DBPort>8888</DBPort>
+		<DBUser>root</DBUser>
+		<DBPassword>root</DBPassword>
+		<DBSchema>censeo</DBSchema>
+        
+        <inputFilePath>C:/test</inputFilePath>
+	</ServerConfiguration>
+	

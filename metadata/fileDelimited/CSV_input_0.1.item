@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_W4c38GRbEeiaW4d5c5cFGg" name="CSV_input" dataPackage="_W4c38WRbEeiaW4d5c5cFGg" Server="Localhost 127.0.0.1" FilePath="/Users/milossundic/Desktop/data.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" HeaderValue="0"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_W4c38WRbEeiaW4d5c5cFGg" name="default" dataManager="_W4c38GRbEeiaW4d5c5cFGg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_W4c38mRbEeiaW4d5c5cFGg" id="_M8500GRbEeiaW4d5c5cFGg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_W4c382RbEeiaW4d5c5cFGg" label="Id" length="2" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_W4c39GRbEeiaW4d5c5cFGg" label="Name" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_W4c39WRbEeiaW4d5c5cFGg" label="Email" length="44" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_W4c39mRbEeiaW4d5c5cFGg" label="Company" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_W4c392RbEeiaW4d5c5cFGg" label="Country" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

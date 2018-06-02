@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_MO9B0GMrEei6nIR62ydc2Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ZTUQAGMrEei6nIR62ydc2Q" comment="" name="ime" prompt="ime?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_ZTUQAWMrEei6nIR62ydc2Q" comment="" name="prezime" prompt="prezime?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_ZTUQAmMrEei6nIR62ydc2Q" comment="" name="godiste" prompt="godiste?" promptNeeded="false" type="id_Integer" value="null"/>
+  <contextParameter xmi:id="_ZTUQA2MrEei6nIR62ydc2Q" comment="" name="grad" prompt="grad?" promptNeeded="false" type="id_String" value="null"/>
+</talendfile:ContextType>
